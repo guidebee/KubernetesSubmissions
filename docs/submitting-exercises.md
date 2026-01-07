@@ -2,7 +2,7 @@
 
 During the course, you are building a set of apps and Kubernetes configs for those. You save all the apps and configs to one or several GitHub repositories.
 
-One example to organize the repository is https://github.com/mluukkai/KubernetesSubmissions that looks like this
+One example to organize the repository is https://github.com/guidebee/KubernetesSubmissions that looks like this
 
 ![Figure 1](github1.png)
 
@@ -24,13 +24,13 @@ Besides all this, each of the applications should have a README.md that describe
 
 ![Figure 4](github4.png)
 
-Make sure that the repository is available to GitHub user mluukkai. We prefer public repositories, but if you want to keep your experience secret, you can create a private repository and add mluukkai(opens in a new tab)(opens in a new tab) as a collaborator.
+Make sure that the repository is available to GitHub user guidebee. We prefer public repositories, but if you want to keep your experience secret, you can create a private repository and add guidebee(opens in a new tab)(opens in a new tab) as a collaborator.
 
 It is extremely important that you follow the above explained
 
 - make a release for every exercise (with the same name as the exercise number)
 - make a link from your main repository README.md to each exercise, the link points to the corresponding release and the directory that is relevant for the exercise
-- repository should be accessible for GitHub user mluukkai
+- repository should be accessible for GitHub user guidebee
 
 In most of the exercise you are only asked to submit a link to the GitHub release corresponding to the exercise. Some of the exercises might ask you also to submit something more besides to the commit links.
 
